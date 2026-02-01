@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Janarthanan 
 
-<!--
-**Jana57473/Jana57473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner full-stack developer learning by building real projects.
 
-Here are some ideas to get you started:
+###  Featured Project
+**Money Manager Web Application**
+- React + Tailwind CSS frontend
+- Node.js + Express backend
+- MongoDB Atlas database
+- Deployed using Vercel and Render
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Currently Learning
+- Full Stack Web Development
+- REST APIs
+- Database design
+
+Thanks for visiting my profile 
